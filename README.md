@@ -72,7 +72,7 @@ This requires a working **Go (Golang) environment**, but in exchange you get:
 
 ## Requirements
 
-On your build machine:
+**On your build machine:**
 
 - Go (latest recommended)
 - git
@@ -82,6 +82,9 @@ On your build machine:
 
 Optional:
 - ssh-copy-id
+
+**On your router:**
+- Stop the tailscale service if you want to deploy via ssh
 
 ---
 
